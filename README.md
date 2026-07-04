@@ -43,7 +43,7 @@ npm install
 npm run dev
 ```
 
-La API se inicia en `http://localhost:3000/api` y crea automáticamente `backend/data/stocklab.db` con algunos equipos de ejemplo.
+La API se ejecuta en `http://localhost:3000/api` y crea automáticamente `backend/data/stocklab.db` con algunos equipos de ejemplo.
 
 Comprobación rápida:
 
